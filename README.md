@@ -8,7 +8,7 @@
 
 #### 安装
 
-应用采用压缩包的形式发行，[下载]([Releases · microvdev/spaces](https://github.com/microvdev/spaces/releases)) 最新版本对应的压缩包并解压，将解压目录移动到安装目录下存放即可。双击目录下`spaces.exe`启动应用，也可以创建`spaces.exe`的快捷方式便捷启动。
+应用采用压缩包的形式发行，[下载](https://github.com/microvdev/spaces/releases) 最新版本对应的压缩包并解压，将解压目录移动到安装目录下存放即可。双击目录下`spaces.exe`启动应用，也可以创建`spaces.exe`的快捷方式便捷启动。
 
 应用会在用户目录下生成`.microvdev`目录用于存放计算过程中产生的数据，`Electron`框架会在用户目录`AppData\Roaming`目录下生成`spaces`目录缓存框架数据。
 
